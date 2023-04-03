@@ -12,7 +12,7 @@ To use this application, follow these steps:
 
 - Copy code
 
-git clone https://github.com/your_username/simple-loan-calculator.git
+git clone https://github.com/jgaspar10/Loan-Calculator-App.git
 
 2. Open the solution in Visual Studio.
 
